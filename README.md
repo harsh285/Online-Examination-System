@@ -1,11 +1,7 @@
 Django Online Examination WebSite
 ===============
 
-IBM Project Created By,
-						1) Harsh N Patel
-						2) Harsh S Patel
-						3) Kashish Gandhi
-						4) Raj Rao
+IBM Project Created , Harsh S Patel
 
 Requirements
 ------------
